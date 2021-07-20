@@ -21,9 +21,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"pushkit-go-sample/examples/common"
-	"pushkit-go-sample/push/constant"
-	"pushkit-go-sample/push/model"
+	"github.com/ldnvnbl/hms-push-serverdemo-go/examples/common"
+	"github.com/ldnvnbl/hms-push-serverdemo-go/push/constant"
+	"github.com/ldnvnbl/hms-push-serverdemo-go/push/model"
 )
 
 func main() {

@@ -18,8 +18,8 @@ package common
 
 import (
 	"fmt"
-	"pushkit-go-sample/push/config"
-	"pushkit-go-sample/push/core"
+	"github.com/ldnvnbl/hms-push-serverdemo-go/push/config"
+	"github.com/ldnvnbl/hms-push-serverdemo-go/push/core"
 	"sync"
 )
 
